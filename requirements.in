@@ -1,0 +1,3 @@
+gunicorn
+pyramid
+pyramid_jinja2
